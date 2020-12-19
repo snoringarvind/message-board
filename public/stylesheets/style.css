@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.messages ul {
+  border: 1px solid salmon;
+  background-color: lightblue;
+  padding: 1rem;
+  width: fit-content;
+  border-radius: 10px;
+}
+
+.form * {
+  display: block;
+  line-height: 150%;
+}
+
+.form {
+  width: fit-content;
+  border: 1px solid;
+  padding: 1rem;
+}
